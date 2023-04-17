@@ -1,0 +1,21 @@
+,missing_values,data_types,unique_values,mode,count,mode_frequency,mode_percentage
+ID,0,object,11845,A-2749196,1,1,0.008442380751371888
+Start_Time,0,object,9234,2020-12-15 03:30:00,23,23,0.1941747572815534
+End_Time,0,object,9510,2020-12-15 06:30:00,23,23,0.1941747572815534
+Description,0,object,4245,At 10th St/Exit 250 - Accident.,108,108,0.9117771211481638
+Street,0,object,359,GA-403 N,981,981,8.281975517095821
+Side,0,object,2,R,11410,11410,96.32756437315322
+City,0,object,1,Atlanta,11845,11845,100.0
+County,0,object,5,Fulton,8137,8137,68.69565217391305
+State,0,object,1,GA,11845,11845,100.0
+Zipcode,0,object,321,30315,940,940,7.935837906289573
+Country,0,object,1,US,11845,11845,100.0
+Timezone,0,object,1,US/Eastern,11845,11845,100.0
+Airport_Code,0,object,4,KATL,4189,4189,35.365132967496834
+Weather_Timestamp,25,object,7970,2020-12-15 03:53:00,30,30,0.2532714225411566
+Wind_Direction,47,object,24,CALM,1197,1197,10.105529759392148
+Weather_Condition,32,object,39,Fair,2336,2336,19.721401435204726
+Sunrise_Sunset,0,object,2,Day,6772,6772,57.17180244829042
+Civil_Twilight,0,object,2,Day,7330,7330,61.882650907555934
+Nautical_Twilight,0,object,2,Day,7915,7915,66.82144364710848
+Astronomical_Twilight,0,object,2,Day,8415,8415,71.04263402279443
